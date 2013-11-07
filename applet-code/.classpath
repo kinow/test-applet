@@ -1,0 +1,13 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes"/>
+  <classpathentry kind="src" path="src/test/resources" output="target/test-classes" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/jgoodies/jgoodies-binding/2.7.0/jgoodies-binding-2.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/jgoodies/jgoodies-common/1.4.0/jgoodies-common-1.4.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/jgoodies/jgoodies-forms/1.6.0/jgoodies-forms-1.6.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/jgoodies/jgoodies-looks/2.5.2/jgoodies-looks-2.5.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/jgoodies/jgoodies-validation/2.4.2/jgoodies-validation-2.4.2.jar"/>
+</classpath>
